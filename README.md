@@ -43,15 +43,17 @@ HighlightController owns visual emphasis for a single machine component. The tra
 InstructionPanelUI is presentation-only. It displays procedural instructions, warnings, and feedback without owning lesson validation logic.
 
 Folder Structure
-Assets/Scripts/AR - AR Foundation placement systems and editor-compatible AR support.
-Assets/Scripts/Core - Lightweight event communication and shared utilities.
-Assets/Scripts/Interaction - Touch and mouse-based object interaction systems.
-Assets/Scripts/Machine - Primitive machine components, highlighting, machine state, and visual feedback systems.
-Assets/Scripts/Training - Procedural lesson flow, validation logic, and reusable training step data.
-Assets/Scripts/UI - Instruction panels, warnings, feedback, callouts, and interaction buttons.
-Assets/Training - Reusable ScriptableObject lesson content.
-Assets/Scenes - Unity scenes for the AR training experience.
-Assets/Documentation - Architecture notes and supporting documentation.
-Packages - Unity package manifest and lock file.
-ProjectSettings - Unity project configuration.
 
+| Path | Purpose |
+| --- | --- |
+| `Assets/Scripts/AR` | AR Foundation placement systems and editor-compatible AR support. |
+| `Assets/Scripts/Core` | Lightweight event communication and shared utilities. |
+| `Assets/Scripts/Interaction` | Touch and mouse-based object interaction systems. |
+| `Assets/Scripts/Machine` | Primitive machine components, highlighting, machine state, and visual feedback systems. |
+| `Assets/Scripts/Training` | Procedural lesson flow, validation logic, and reusable training step data. |
+| `Assets/Scripts/UI` | Instruction panels, warnings, feedback, callouts, and interaction buttons. |
+| `Assets/Training` | Reusable ScriptableObject lesson content. |
+| `Assets/Scenes` | Unity scenes for the AR training experience. |
+| `Assets/Documentation` | Architecture notes and supporting documentation. |
+| `Packages` | Unity package manifest and lock file. |
+| `ProjectSettings` | Unity project configuration. |
