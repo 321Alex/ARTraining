@@ -8,6 +8,7 @@
 *.controller text eol=lf
 *.anim text eol=lf
 *.inputactions text eol=lf
+*.wlt text eol=lf linguist-language=YAML
 
 *.png binary
 *.jpg binary
