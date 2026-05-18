@@ -1,4 +1,4 @@
-ARTraining
+# **ARTraining**
 
 ARTraining is a Unity-based augmented reality training prototype focused on guided industrial safety procedures and instructional interaction design. Learners place a simplified machine into their real environment, inspect highlighted hazards, and complete a guided lockout/tagout procedure before entering a safe maintenance state.
 
