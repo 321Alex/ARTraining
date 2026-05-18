@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63ecda3be152e224ebfe33530beddef2, type: 3}
+  m_Name: LOTOTrainingLesson
+  m_EditorClassIdentifier: 
+  steps:
+  - title: Place Trainer
+    stepType: 0
+    instruction: Scan a table or floor, then tap to place the machine.
+    requiredHazards: 
+    requiredRoles: 
+    requiredActions: 
+  - title: Identify Hazards
+    stepType: 1
+    instruction: Tap each red highlighted component to identify electrical, pressure,
+      moving-parts, and lock-point items.
+    requiredHazards: 010000000200000003000000
+    requiredRoles: 03000000
+    requiredActions: 
+  - title: Lockout/Tagout Procedure
+    stepType: 2
+    instruction: Perform the shutdown actions in the correct order.
+    requiredHazards: 
+    requiredRoles: 
+    requiredActions: 01000000020000000300000004000000
+  - title: Safe Maintenance Mode
+    stepType: 3
+    instruction: The machine is safe for maintenance. Red means dangerous, yellow
+      means partially safe, green means safe.
+    requiredHazards: 
+    requiredRoles: 
+    requiredActions: 

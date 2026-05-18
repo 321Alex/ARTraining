@@ -1,0 +1,53 @@
+# Unity generated folders
+/Library/
+/Temp/
+/Obj/
+/obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+/MemoryCaptures/
+/Recordings/
+
+# Unity/Android build caches and local Gradle homes
+/ARTraining_BurstDebugInformation_DoNotShip/
+/BuildTest_BackUpThisFolder_ButDontShipItWithYourGame/
+/CacheHomeRoot/
+/GHomeRoot/
+/GradleUserHome/
+/TempGradleWriteTest/
+/.utmp/
+
+# Build artifacts
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.dll
+*.pdb
+*.mdb
+
+# IDE/editor files
+/.idea/
+/.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.suo
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Crash and profiling output
+sysinfo.txt
+crashlytics-build.properties
