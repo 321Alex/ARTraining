@@ -4,6 +4,10 @@ ARTraining is a Unity-based augmented reality training prototype focused on guid
 
 The project was designed to demonstrate practical AR interaction workflows, modular training architecture, event-driven gameplay systems, and reusable instructional content within a lightweight mobile AR experience.
 
+## Demo Video
+
+[![ARTraining demo video](https://drive.google.com/thumbnail?id=151F4NTbPf1euzC-aGL59CY1KcaME0UR0)]
+
 ## Project Goals
 
 - Teach the core sequence of a lockout/tagout safety procedure through an interactive AR workflow.
