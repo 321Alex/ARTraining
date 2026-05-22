@@ -6,7 +6,7 @@ The project was designed to demonstrate practical AR interaction workflows, modu
 
 ## Demo Video
 
-[![ARTraining demo video](https://drive.google.com/thumbnail?id=151F4NTbPf1euzC-aGL59CY1KcaME0UR0)]
+[Demo Video](https://drive.google.com/file/d/151F4NTbPf1euzC-aGL59CY1KcaME0UR0/view)
 
 ## Project Goals
 
